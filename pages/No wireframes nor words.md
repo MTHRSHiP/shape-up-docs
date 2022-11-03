@@ -1,0 +1,3 @@
+- ![Rough sketch of the Dot Grid concept](https://basecamp.com/assets/books/shapeup/1.1/calendar_sketch-355ff96889735772138625e1d56acdbc8740186af109b5383cc5954939349cb4.png){:height 775, :width 776}
+- Note how rough the sketch is and how many details are left out. The designer had a lot of room to interpret how this should look and feel.
+- At the same time, note how specific the idea is. It’s very clear how it works, what needs to be built, what’s in and what’s out.

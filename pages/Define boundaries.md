@@ -1,0 +1,1 @@
+- Boundaries need to be set on what we are trying to do, what needs to be done, and what is not necessary. It also needs to define the [[Appetite]] and if it's going to be a small or a big batch

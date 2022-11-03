@@ -1,0 +1,2 @@
+- Task left for the end of the cycle. If there isn’t time to do them, they get cut.
+- Can be done at [cooldowns](Cooldown).

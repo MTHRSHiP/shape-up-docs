@@ -1,0 +1,3 @@
+- We trust the team to take on the entire project and work within the boundaries of the pitch.
+- The team is going to define their own tasks and their own approach to the work. They will have full autonomy and use their judgement to execute the pitch as best as they can.
+- Ref: https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks

@@ -1,0 +1,3 @@
+- At the end of the cycle, the team will deploy their work. In the case of a Small Batch team with a few small projects for the cycle, they’ll deploy each one as they see fit as long as it happens before the end of the cycle.
+- This constraint keeps us true to our bets and respects the  [[Circuit breaker]]
+- Ref: https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed

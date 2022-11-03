@@ -1,0 +1,8 @@
+- [[Projects no tasks]]
+- [[Done -> Deploy]]
+- [[Scope]]
+- [[Task]]
+- [[Discovering tasks]]
+- [[Nice-to-haves]]
+- [[The Hill Graph]]
+- [[When to stop]]

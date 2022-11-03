@@ -1,0 +1,7 @@
+- [[Bet]]
+- [[No backlog]]
+- [[Six week cycles]]
+- [[Cooldown]]
+- [[Uninterrupted Time]]
+- [[Circuit breaker]]
+- [[Discussing the bet]]

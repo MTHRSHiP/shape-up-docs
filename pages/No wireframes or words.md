@@ -1,0 +1,2 @@
+- ![Calendar ](https://basecamp.com/assets/books/shapeup/1.1/calendar_sketch-355ff96889735772138625e1d56acdbc8740186af109b5383cc5954939349cb4.png){:height 775, :width 776}
+- ![end result](https://basecamp.com/assets/books/shapeup/1.1/calendar_screenshot-f8bcf5d1a0cd1642043ed106ac8b58db460e86acad341bde1a848f20fe1683a3.png)

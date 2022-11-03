@@ -1,0 +1,9 @@
+- Then we should also question the viability of each part we think we solved. We ask ourselves questions like:
+	- Does this require new technical work we’ve never done before?
+	- Are we making assumptions about how the parts fit together?
+	- Are we assuming a design solution exists that we couldn’t come up with ourselves?
+	- Is there a hard decision we should settle in advance so it doesn’t trip up the team?
+- Declare out of bounds.
+- Cut unnecessary parts.
+- Present to technical experts.
+- Ref: https://basecamp.com/shapeup/1.4-chapter-05

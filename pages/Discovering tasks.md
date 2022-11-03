@@ -1,0 +1,2 @@
+- ![Discovering Tasks](https://basecamp.com/assets/books/shapeup/3.4/tasks_growing-9ec9f929e6eb6dab7ba05e7c02a5b4c33ba5739622236c2f213ebe75bcb4c17c.jpg)
+-

@@ -1,0 +1,3 @@
+- A breadboard is an electrical engineering prototype that has all the components and wiring of a real device but no industrial design.
+- *A UI concept that defines affordances and their connections without visual styling.*
+- ![Breadboarding](https://basecamp.com/assets/books/shapeup/1.3/ee_breadboard-f576c579fcb3f3865a3004c9e9e53fd0c97fa14e65a7b81af3ec6fbfe7b31832.png)

@@ -1,0 +1,1 @@
+- A two-week break between cycles to do ad-hoc tasks, fix bugs, and hold a betting table.

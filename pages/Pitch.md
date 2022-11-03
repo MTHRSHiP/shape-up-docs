@@ -1,0 +1,5 @@
+- Problem: What the project is solving. The raw idea, a use case, or something we’ve seen that motivates us to work on this
+- Appetite: The amount of time we want to spend on a project, as opposed to an estimate.
+- Solution: The core elements we came up with, presented in a form that’s easy for people to immediately understand
+- Rabbit Holes: Part of a project that is too unknown, complex, or open-ended to bet on. Details about the solution worth calling out to avoid problems
+- No go's: If there’s anything we’re not doing in this concept, it’s good to mention it here. Anything specifically excluded from the concept: functionality or use cases we intentionally aren’t covering to fit the appetite or make the problem tractable.

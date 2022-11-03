@@ -1,0 +1,1 @@
+- A risk management technique: Cancel projects that don’t ship in one cycle by default instead of extending them by default.

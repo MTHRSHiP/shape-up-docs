@@ -1,0 +1,4 @@
+- Every piece of work has two phases. First there’s the uphill phase of figuring out what our approach is and what we’re going to do. Then, once we can see all the work involved, there’s the downhill phase of execution.
+- ![hill grapah](https://basecamp.com/assets/books/shapeup/3.4/hill_concept-a0a77c0ebb209b61899b8b4cdb1a315f2807e3fdc2e1d2373e2f19060725f042.png)
+- ![scopes inside the hill graph](https://basecamp.com/assets/books/shapeup/3.4/scopes_on_the_hill-592ba06433e0fbc0e45c6344efdcb44e7d2c495b8d0f0d6048e2b8aa030acb88.png)
+- Ref: https://basecamp.com/shapeup/3.4-chapter-13#work-is-like-a-hill

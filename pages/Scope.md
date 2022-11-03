@@ -1,0 +1,6 @@
+- *Parts of a project that can be built, integrated, and finished independently of the rest of the project.*
+- List of [tasks](Task)
+- ![Unscoped](https://basecamp.com/assets/books/shapeup/3.3/drafts_1-34f5a96e807ac206f0a3c1cd708a1ed553550480198d3dbd02e3f8f890c36100.png){:height 320, :width 756}
+- ![Scoped](https://basecamp.com/assets/books/shapeup/3.3/drafts_6-a511456472dd9b348e6fc314781a8e6c91e7ae942eed0779036539bf27bbb530.png)
+- In the image above we can see the scopes: `Send`, `Store`, `Reply`, `Trash`, and `Locate` each with their respective [tasks](Task) underneath.
+- Ref: https://basecamp.com/shapeup/3.3-chapter-12

@@ -1,0 +1,3 @@
+- Six weeks is long enough to finish something meaningful and short enough to feel the deadline from the beginning.
+- Also known as `Big batch`: One project that occupies a team for a whole cycle and ships at the end.
+- Ref: https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles

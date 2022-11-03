@@ -1,0 +1,3 @@
+- It’s not really a bet if we say we’re dedicating six weeks but then allow a team to get pulled away to work on something else.
+- When you make a bet, you honor it. We do not allow the team to be interrupted or pulled away to do other things. If people interrupt the team with requests, that breaks our commitment. We’d no longer be giving the team a whole six weeks to do work that was shaped for six weeks of time.
+- Ref: https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time

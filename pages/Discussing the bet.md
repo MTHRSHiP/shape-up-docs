@@ -1,0 +1,5 @@
+- Does the problem matter?
+- Is the appetite right?
+- Is the solution attractive?
+- Is this the right time?
+- Are the right people available?

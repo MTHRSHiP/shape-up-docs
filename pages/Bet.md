@@ -1,0 +1,1 @@
+- The decision to commit a team to a project for one cycle with no interruptions and an expectation to finish.
