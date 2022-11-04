@@ -69,8 +69,7 @@
  ;; If `:sidebar` is not set, sidebar will be hidden
  ;; Example:
  ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
- :default-home {:page "Shape Up", :sidebar "Contents"}
- 
+ :default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
@@ -209,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites []
+ :favorites ["Shape Up"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -299,6 +298,4 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? true
- :feature/enable-journals? false
- :feature/enable-flashcards? false
  }

@@ -60,7 +60,7 @@
   :block/updated-at 1667514710162}
  {:block/name "evaluate risks",
   :block/created-at 1667506307035,
-  :block/updated-at 1667506354528}
+  :block/updated-at 1667563785458}
  {:block/name "favorites",
   :block/created-at 1667480113834,
   :block/updated-at 1667480113834}
@@ -111,7 +111,7 @@
   :block/updated-at 1667563418488}
  {:block/name "shape up",
   :block/created-at 1667487285533,
-  :block/updated-at 1667518162729}
+  :block/updated-at 1667573026738}
  {:block/name "six week cycles",
   :block/created-at 1667510459249,
   :block/updated-at 1667510810604}
